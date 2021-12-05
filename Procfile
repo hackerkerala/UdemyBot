@@ -1,1 +1,1 @@
-worker: python3 -m udemy
+web: python3 -m udemy
